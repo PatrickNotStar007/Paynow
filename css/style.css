@@ -536,8 +536,6 @@ body._lock {
 }
 .support__block-text > .block-text__title {
     margin-bottom: 25px;
-}
-.block-text__title {
     color: inherit;
 }
 .support__block-text > .block-text__text {
